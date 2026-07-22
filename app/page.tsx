@@ -2,7 +2,6 @@ import Link from "next/link";
 import Image from "next/image";
 import Container from "@/components/Container";
 import PostGrid from "@/components/PostGrid";
-import Newsletter from "@/components/Newsletter";
 import { getAllPostSummaries, getFeaturedPosts, getPostsByCategory } from "@/lib/posts";
 import { CATEGORIES } from "@/lib/constants";
 import { formatDate } from "@/lib/format";
@@ -33,7 +32,7 @@ export default function HomePage() {
                 Motherhood, <span className="italic text-brown">unhurried</span>.
               </h1>
               <p className="mt-6 max-w-md text-lg leading-relaxed text-brown-500">
-               {"Motherhood was never meant to be a race. Thoughtful writing on pregnancy, newborns, and raising kids."}
+                {"Motherhood was never meant to be a race. Thoughtful writing on pregnancy, newborns, and raising kids."}
               </p>
               <div className="mt-8 flex flex-wrap gap-4">
                 <Link
@@ -148,14 +147,6 @@ export default function HomePage() {
       {/* ---------------------------------------------------------------- */}
       <CategorySpotlight slug="motherhood" />
 
-      {/* ---------------------------------------------------------------- */}
-      {/* Newsletter */}
-      {/* ---------------------------------------------------------------- */}
-      <section className="py-16">
-        <Container narrow>
-          <Newsletter />
-        </Container>
-      </section>
     </>
   );
 }
@@ -186,3 +177,4 @@ function CategorySpotlight({ slug }: { slug: string }) {
     </section>
   );
 }
+
