@@ -146,7 +146,6 @@ export default function HomePage() {
       {/* Category spotlight — Motherhood */}
       {/* ---------------------------------------------------------------- */}
       <CategorySpotlight slug="motherhood" />
-
     </>
   );
 }
@@ -177,4 +176,3 @@ function CategorySpotlight({ slug }: { slug: string }) {
     </section>
   );
 }
-
