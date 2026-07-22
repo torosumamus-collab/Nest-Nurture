@@ -32,7 +32,7 @@ export default function HomePage() {
                 Motherhood, <span className="italic text-brown">unhurried</span>.
               </h1>
               <p className="mt-6 max-w-md text-lg leading-relaxed text-brown-500">
-                {"Motherhood was never meant to be a race. Thoughtful writing on pregnancy, newborns, and raising kids."}
+                {"Motherhood was never meant to be a race. Thoughtful writing on pregnancy, newborns,raising kids and motherhood lifestyle."}
               </p>
               <div className="mt-8 flex flex-wrap gap-4">
                 <Link
