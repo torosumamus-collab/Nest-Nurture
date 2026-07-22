@@ -30,7 +30,7 @@ export default function ContactPage() {
           >
             nestnurturemums@gmail.com
           </a>
-          <span className="mt-2 text-xs text-brown-400">We typically respond within 2–3 business days.</span>
+          <span className="mt-2 text-xs text-brown-400">We typically respond within 2-3 business days.</span>
         </div>
       </div>
     </Container>
