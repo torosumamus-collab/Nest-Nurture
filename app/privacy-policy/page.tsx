@@ -81,7 +81,7 @@ export default function PrivacyPolicyPage() {
       <h2>Contact Us</h2>
       <p>
         Questions about this policy can be sent to{" "}
-        <a href="mailto:hello@nestandnurture.com">hello@nestandnurture.com</a>.
+       <a href="mailto:hello@nestandnurture.com">hello@nestandnurture.com</a>.
       </p>
     </LegalPage>
   );
