@@ -24,7 +24,7 @@ export default function ContactPage() {
 
         <div className="mt-10 inline-flex flex-col items-center gap-2 rounded-xl2 bg-warm-white px-10 py-8 shadow-card">
           <span className="text-sm font-medium text-ink">Email us</span>
-          
+          <a
             href="mailto:nestnurturemums@gmail.com"
             className="font-display text-2xl text-brown-700 hover:text-brown-500"
           >
