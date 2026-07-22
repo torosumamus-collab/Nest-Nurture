@@ -1,0 +1,144 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --color-cream: #fff9f5;
+  --color-warm-white: #fffdfb;
+  --color-sage: #a8c3a0;
+  --color-rose: #d9a5a5;
+  --color-beige: #f2e9e4;
+  --color-brown: #6b584c;
+  --color-ink: #3a322c;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: var(--color-cream);
+  color: var(--color-ink);
+  font-feature-settings: "kern" 1, "liga" 1;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+/* Visible, brand-consistent focus ring for accessibility */
+:focus-visible {
+  outline: 2px solid var(--color-brown);
+  outline-offset: 3px;
+  border-radius: 2px;
+}
+
+::selection {
+  background-color: var(--color-rose);
+  color: var(--color-warm-white);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+/* Editorial article typography */
+.article-content {
+  font-family: var(--font-inter), system-ui, sans-serif;
+  color: var(--color-ink);
+  line-height: 1.8;
+}
+
+.article-content > * + * {
+  margin-top: 1.5em;
+}
+
+.article-content h2 {
+  font-family: var(--font-fraunces), serif;
+  font-size: clamp(1.5rem, 2.4vw, 2rem);
+  font-weight: 500;
+  color: var(--color-ink);
+  margin-top: 2.2em;
+  line-height: 1.25;
+}
+
+.article-content h3 {
+  font-family: var(--font-fraunces), serif;
+  font-size: clamp(1.2rem, 1.8vw, 1.5rem);
+  font-weight: 500;
+  margin-top: 1.8em;
+  line-height: 1.3;
+}
+
+.article-content p {
+  font-size: 1.125rem;
+}
+
+.article-content a {
+  color: var(--color-brown);
+  text-decoration: underline;
+  text-decoration-color: var(--color-rose);
+  text-underline-offset: 3px;
+  transition: text-decoration-color 0.2s ease;
+}
+
+.article-content a:hover {
+  text-decoration-color: var(--color-brown);
+}
+
+.article-content ul,
+.article-content ol {
+  padding-left: 1.3em;
+  font-size: 1.125rem;
+}
+
+.article-content li + li {
+  margin-top: 0.5em;
+}
+
+.article-content li::marker {
+  color: var(--color-sage);
+}
+
+.article-content ol li::marker {
+  color: var(--color-brown);
+  font-weight: 600;
+}
+
+.article-content blockquote {
+  border-left: 3px solid var(--color-rose);
+  padding-left: 1.25em;
+  font-family: var(--font-fraunces), serif;
+  font-style: italic;
+  font-size: 1.25rem;
+  color: var(--color-brown);
+}
+
+.article-content strong {
+  font-weight: 600;
+  color: var(--color-ink);
+}
+
+.article-content hr {
+  border: none;
+  border-top: 1px solid var(--color-beige);
+  margin: 3em 0;
+}
+
+/* Line clamp utility for post cards without extra plugin */
+.line-clamp-2 {
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.line-clamp-3 {
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
