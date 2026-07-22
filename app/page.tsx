@@ -33,7 +33,7 @@ export default function HomePage() {
                 Motherhood, <span className="italic text-brown">unhurried</span>.
               </h1>
               <p className="mt-6 max-w-md text-lg leading-relaxed text-brown-500">
-                {"Thoughtful, evidence-informed writing on pregnancy, newborn life, and raising kids — without the noise, the guilt, or the algorithm."}
+               {"Motherhood was never meant to be a race. Thoughtful writing on pregnancy, newborns, and raising kids."}
               </p>
               <div className="mt-8 flex flex-wrap gap-4">
                 <Link
