@@ -17,6 +17,12 @@ export const SITE = {
 // changes required as the catalog grows into the thousands.
 export const CATEGORIES: Category[] = [
   {
+    slug: "lifestyle",
+    name: "Lifestyle",
+    description: "Everyday living, wellness, and the small routines that make family life feel good.",
+    color: "brown",
+  },
+  {
     slug: "pregnancy",
     name: "Pregnancy",
     description: "Trimester guides, birth prep, and honest reflections on the road to motherhood.",
@@ -79,6 +85,7 @@ export const AUTHORS: Author[] = [
 ];
 
 export const NAV_LINKS = [
+  { label: "Lifestyle", href: "/blog/category/lifestyle" },
   { label: "Pregnancy", href: "/blog/category/pregnancy" },
   { label: "Newborn", href: "/blog/category/newborn" },
   { label: "Toddler & Kids", href: "/blog/category/toddler-kids" },
@@ -88,7 +95,7 @@ export const NAV_LINKS = [
 ];
 
 export const FOOTER_LINKS = {
-  read: NAV_LINKS.slice(0, 5),
+  read: NAV_LINKS.slice(0, 6),
   company: [
     { label: "About", href: "/about" },
     { label: "Contact", href: "/contact" },
