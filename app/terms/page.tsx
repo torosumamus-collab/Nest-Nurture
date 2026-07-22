@@ -78,7 +78,7 @@ export default function TermsPage() {
       <h2>Contact</h2>
       <p>
         Questions about these Terms can be sent to{" "}
-       <a href="mailto:hello@nestandnurture.com">hello@nestandnurture.com</a>.
+       <a href="mailto:nestnurturemums@gmail.com">nestnurturemums@gmail.com</a>.
       </p>
     </LegalPage>
   );
