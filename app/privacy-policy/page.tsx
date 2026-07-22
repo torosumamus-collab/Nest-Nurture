@@ -15,8 +15,6 @@ export default function PrivacyPolicyPage() {
       <p>
         {SITE.name} ("we," "us," or "our") respects your privacy. This policy explains what
         information we collect when you visit {SITE.url}, how we use it, and the choices you have.
-        This is a template and should be reviewed by a qualified attorney before publishing, as
-        requirements vary by jurisdiction (e.g. GDPR, CCPA/CPRA).
       </p>
 
       <h2>Information We Collect</h2>
