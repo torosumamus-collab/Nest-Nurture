@@ -84,10 +84,6 @@ We believe that good parenting isn't about being perfect. It's about learning, g
         </Container>
       </section>
 
-      <section className="py-16">
-        <Container narrow>
-        </Container>
-      </section>
     </>
   );
 }
