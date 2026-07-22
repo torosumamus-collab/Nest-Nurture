@@ -38,12 +38,14 @@ export default function AboutPage() {
         <header className="mx-auto mt-8 max-w-content text-center">
           <p className="text-xs font-semibold uppercase tracking-[0.2em] text-rose-500">Our Story</p>
           <h1 className="mt-4 font-display text-display-lg text-ink">
-            Helping parents find clarity in the middle of everyday life.
+            Motherhood, unhurried.
           </h1>
           <p className="mt-6 text-lg leading-relaxed text-brown-500">
-            {SITE.name} Parenting doesn't come with a manual, and no two families are exactly alike. Some days feel joyful, others feel uncertain, and most are somewhere in between.
-That's why we built Nest & Nurture—a place where practical advice meets real-life experience. Every article is thoughtfully researched, carefully written, and designed to help parents make informed decisions without fear, guilt, or information overload.
-We believe that good parenting isn't about being perfect. It's about learning, growing, and showing up for your family one day at a time.
+            {SITE.name} Motherhood is filled with beautiful moments, unexpected challenges, and countless opinions about what you should be doing next. In the middle of it all, it's easy to feel overwhelmed or wonder if you're doing enough.
+motherhood isn't about getting everything right. It's about showing up with love, learning as you go, and finding joy in the ordinary moments that make family life so meaningful.
+That's the heart behind Nest & Nurture.
+A place where mothers can find thoughtful ideas, practical guidance, and gentle encouragement without the pressure to have everything figured out. Whether you're preparing for your first baby, settling into family life, or simply looking for inspiration for your home and everyday routines, we're here to walk alongside you.
+So make yourself comfortable, take your time, and stay awhile. We're so glad you're here.
           </p>
         </header>
       </Container>
