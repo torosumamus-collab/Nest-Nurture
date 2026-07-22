@@ -44,7 +44,7 @@ export default function AffiliateDisclosurePage() {
       <h2>Questions</h2>
       <p>
         If you have questions about a specific link or partnership, reach out at{" "}
-        <a href="mailto:hello@nestandnurture.com">hello@nestandnurture.com</a>.
+       <a href="mailto:nestnurturemums@gmail.com">nestnurturemums@gmail.com</a>.
       </p>
     </LegalPage>
   );
