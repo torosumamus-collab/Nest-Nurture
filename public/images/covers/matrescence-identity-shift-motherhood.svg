@@ -1,0 +1,11 @@
+<svg width="1200" height="800" viewBox="0 0 800 533" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="533" fill="#FFF9F5"/>
+  <g><circle cx="350.2" cy="399.2" r="162.1" fill="#6B584C" opacity="0.35"/><circle cx="261.0" cy="458.4" r="169.5" fill="#F2E9E4" opacity="0.35"/><circle cx="713.7" cy="131.8" r="235.0" fill="#6B584C" opacity="0.35"/><circle cx="297.6" cy="139.9" r="117.8" fill="#F2E9E4" opacity="0.35"/></g>
+  <rect width="800" height="533" fill="url(#grain)" opacity="0.03"/>
+  <defs>
+    <pattern id="grain" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="4" fill="none"/>
+      <circle cx="1" cy="1" r="0.6" fill="#6B584C"/>
+    </pattern>
+  </defs>
+</svg>
