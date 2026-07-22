@@ -2,7 +2,6 @@ import type { Metadata } from "next";
 import Image from "next/image";
 import Container from "@/components/Container";
 import Breadcrumbs from "@/components/Breadcrumbs";
-import Newsletter from "@/components/Newsletter";
 import { AUTHORS, SITE } from "@/lib/constants";
 
 export const metadata: Metadata = {
@@ -39,13 +38,12 @@ export default function AboutPage() {
         <header className="mx-auto mt-8 max-w-content text-center">
           <p className="text-xs font-semibold uppercase tracking-[0.2em] text-rose-500">Our Story</p>
           <h1 className="mt-4 font-display text-display-lg text-ink">
-            Parenting writing that feels like a trusted friend.
+            Helping parents find clarity in the middle of everyday life.
           </h1>
           <p className="mt-6 text-lg leading-relaxed text-brown-500">
-            {SITE.name} started in a rocking chair at 4 a.m., during the kind of newborn fog that makes
-            every parenting website feel like it's shouting. We wanted something else: writing that was
-            honest, well-researched, and calm enough to actually read while exhausted. That's still the
-            only editorial standard we hold ourselves to.
+            {SITE.name} Parenting doesn't come with a manual, and no two families are exactly alike. Some days feel joyful, others feel uncertain, and most are somewhere in between.
+That's why we built Nest & Nurture—a place where practical advice meets real-life experience. Every article is thoughtfully researched, carefully written, and designed to help parents make informed decisions without fear, guilt, or information overload.
+We believe that good parenting isn't about being perfect. It's about learning, growing, and showing up for your family one day at a time.
           </p>
         </header>
       </Container>
