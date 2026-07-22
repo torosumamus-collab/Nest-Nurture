@@ -13,8 +13,7 @@ export default function TermsPage() {
     <LegalPage title="Terms of Use" updated="July 22, 2026">
       <p>
         By accessing or using {SITE.url} (the "Site"), you agree to these Terms of Use. If you do not
-        agree, please discontinue use of the Site. This is a template and should be reviewed by a
-        qualified attorney before publishing.
+        agree, please discontinue use of the Site. 
       </p>
 
       <h2>Content &amp; Intellectual Property</h2>
@@ -71,8 +70,7 @@ export default function TermsPage() {
       <h2>Governing Law</h2>
       <p>
         These Terms are governed by the laws of the jurisdiction in which {SITE.name} operates,
-        without regard to conflict-of-law principles. (Update this section with your actual
-        jurisdiction.)
+        without regard to conflict-of-law principles. 
       </p>
 
       <h2>Contact</h2>
