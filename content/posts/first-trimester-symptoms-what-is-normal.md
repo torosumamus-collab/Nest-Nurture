@@ -3,7 +3,7 @@ title: "First Trimester Symptoms: What's Normal & When to Call Your Doctor"
 slug: "first-trimester-symptoms-what-to-know"
 excerpt: "A medically reviewed overview of the most common early pregnancy symptoms and the signs worth a call to your provider"
 meta_description: "Wondering which first trimester symptoms are normal and which deserve medical attention? Learn what's expected during early pregnancy, what may need a doctor's evaluation, and how to care for yourself during these important first weeks."
-date: "2026-04-14"
+date: "2026-07-17"
 category: "pregnancy"
 tags: ["First Trimester", "Early Pregnancy", "Pregnancy Symptoms", "Morning Sickness", "Prenatal Care"]
 cover: "/images/covers/first-trimester-symptoms.jpg"
