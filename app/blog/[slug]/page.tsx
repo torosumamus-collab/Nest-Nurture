@@ -158,20 +158,4 @@ export default async function BlogPostPage({
         </div>
       </Container>
 
-      {related.length > 0 && (
-        <section className="border-t border-beige bg-beige-100 py-16">
-          <Container>
-            <h2 className="mb-8 font-display text-display-sm text-ink">You Might Also Like</h2>
-            <PostGrid posts={related} />
-          </Container>
-        </section>
-      )}
-
-      <section className="py-16">
-        <Container narrow>
-          <Newsletter />
-        </Container>
-      </section>
-    </article>
-  );
-}
+      
