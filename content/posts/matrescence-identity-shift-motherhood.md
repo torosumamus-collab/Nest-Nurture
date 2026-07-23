@@ -86,4 +86,4 @@ You're living through one of the most profound transformations a person can go t
 
 ## Related Articles
 
-[Newborn Sleep in the First 6 Weeks: What to Expect & Gentle Tips for Parents](/blog/newborn-sleep-first-six-weeks)
+[Newborn Sleep in the First 6 Weeks-What to Expect & Gentle Tips for Parents](/blog/gentle-newborn-sleep-first-weeks)
