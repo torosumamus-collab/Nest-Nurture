@@ -16,7 +16,7 @@ Building a Family Dinner Ritual That Actually Survives Busy Weeks
 By week three, our family dinner ritual looked nothing like the one I'd planned. I'd pictured candles, a rotating chore where the kids helped cook, everyone lingering at the table until the last bite. What we actually had, most nights, was reheated pasta eaten in twelve minutes flat. One kid narrated a video game he wasn't allowed to be thinking about, and I was too tired to redirect him.
 
 Here's the thing. A family dinner ritual doesn't need to be elaborate to work. It needs to be repeatable, especially on the nights when nothing else about the day went right.
-![A weeknight family dinner table, softly lit, mismatched plates](public/images/covers/table-setup.jpg) 
+![A weeknight family dinner table, softly lit, mismatched plates](public/images/covers/table-setup.jpg.jpg)
 ### What's Actually Happening When the Ritual Falls Apart
 
 Most dinner rituals don't fail because a family stopped caring. They fail because the version we set out to build was never sized for an actual week. Seven nights, homemade, screens off, everyone chatting: that's not a ritual, that's a full-time job stacked on top of the one you already have.
@@ -40,7 +40,7 @@ You don't need an hour of lingering conversation. Ten minutes, plates in front o
 #### A Rotating Question Instead of Forced Chat
 
 Skip "how was your day," which most kids answer with one flat word. Try something like "what's one thing that made you laugh today" and rotate a short list of these. It gives the table a shape without turning dinner into an interview.
-![A handwritten question card](public/images/question-card.jpg) 
+![A handwritten question card](public/images/question-card.jpg.jpg) 
 
 ### Build In Room for the Hard Nights
 
