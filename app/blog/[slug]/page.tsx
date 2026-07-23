@@ -157,7 +157,6 @@ export default async function BlogPostPage({
           for details.
         </div>
       </Container>
-      </Container>
 
       {related.length > 0 && (
         <section className="border-t border-beige bg-beige-100 py-16">
