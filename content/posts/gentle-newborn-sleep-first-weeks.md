@@ -80,7 +80,7 @@ Lower the bar on everything that isn't the baby. The laundry can wait. Eat somet
 > Caring for yourself isn't taking anything away from your baby. It's one of the ways you care for them.
 
 ## When to Talk to Your Pediatrician
-Most of what happens in these six weeks, however exhausting, falls well inside the range of normal. But a few things are worth a call rather than a wait-and-see: real difficulty waking your baby for feeds, breathing that seems labored or unusually fast, poor weight gain at checkups, a fever, or feeding that seems consistently painful or ineffective for either of you.
+Most of what happens in these six weeks, however exhausting, falls well inside the range of normal. But a few things are worth a call rather than a wait and see: real difficulty waking your baby for feeds, breathing that seems labored or unusually fast, poor weight gain at checkups, a fever, or feeding that seems consistently painful or ineffective for either of you.
 
 You know your baby better than any chart does. If something feels off in a way you can't quite name, that instinct is worth listening to. Call. It costs you a phone call, and it might cost you nothing at all, but it's never the wrong move.
 
