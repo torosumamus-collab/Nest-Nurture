@@ -8,7 +8,7 @@ category: "pregnancy"
 tags: ["First Trimester", "Early Pregnancy", "Pregnancy Symptoms", "Morning Sickness", "Prenatal Care"]
 cover: "/images/covers/first-trimester-symptoms.jpg"
 coverAlt: "A pregnant woman resting on a couch with tea and a blanket, soft morning light"
-author: "Claire Whitfield"
+author: "claire-whitfield"
 featured: false
 ---
 
@@ -80,7 +80,7 @@ A thin, milky, mild-smelling discharge tends to increase through pregnancy as es
 
 > **Remember This:** just because a symptom is common doesn't mean you have to quietly struggle through it. If something feels severe, persistent, or simply worries you, it is always appropriate to call your provider.
 
-![nightstand scene with plain crackers, a glass of water, ginger tea, and a prenatal vitamin bottle](/images/prenatal-vitamin-bottle.jpg)
+![nightstand scene with plain crackers, a glass of water, ginger tea, and a prenatal vitamin bottle](/images/images/prenatal-vitamin-bottle.jpg)
 
 ## Symptoms That Should Be Evaluated Promptly
 
