@@ -1,5 +1,5 @@
 ---
-title: "Five-Minute Self-Care for Mothers Who Don't Have an Hour to Spare"
+title: "Five Minute Self-Care for Mothers Who Don't Have an Hour to Spare"
 slug: "five-minute-self-care-for-tired-mothers"
 excerpt: "Self-care doesn't have to mean spa days or a free hour you don't have. Here are ten small, real ways to care for yourself in the minutes you actually have."
 meta_description: "Discover 10 realistic five-minute self-care ideas for busy mothers who don't have an hour to spare. Simple, science-backed ways to lower stress and feel grounded again."
