@@ -61,7 +61,7 @@ Five minutes without notifications. No scrolling, no comparing your day to someo
 
 ## 6. Read One Page
 
-Not twenty pages. Not a whole chapter. One page, of anything — a devotional, a novel you've been meaning to finish, an essay, a poem.
+Not twenty pages. Not a whole chapter. One page, of anything; a devotional, a novel you've been meaning to finish, an essay, a poem.
 Small reading habits, kept small on purpose, are far more likely to become lasting ones than the ambitious ones you abandon by week two.
 
 ## 7. Light a Candle
