@@ -1,4 +1,3 @@
-markdown
 ---
 title: "First Trimester Symptoms: What's Normal & When to Call Your Doctor"
 slug: "first-trimester-symptoms-what-to-know"
@@ -6,7 +5,7 @@ excerpt: "A medically reviewed overview of the most common early pregnancy sympt
 meta_description: "Wondering which first trimester symptoms are normal and which deserve medical attention? Learn what's expected during early pregnancy, what may need a doctor's evaluation, and how to care for yourself during these important first weeks."
 date: "2026-04-14"
 category: "pregnancy"
-tags: [""First Trimester", "Early Pregnancy", "Pregnancy Symptoms", "Morning Sickness", "Prenatal Care"]
+tags: ["First Trimester", "Early Pregnancy", "Pregnancy Symptoms", "Morning Sickness", "Prenatal Care"]
 cover: "/images/covers/first-trimester-symptoms.jpg"
 coverAlt: "A pregnant woman resting on a couch with tea and a blanket, soft morning light"
 author: "Claire Whitfield"
@@ -81,7 +80,7 @@ A thin, milky, mild-smelling discharge tends to increase through pregnancy as es
 
 > **Remember This:** just because a symptom is common doesn't mean you have to quietly struggle through it. If something feels severe, persistent, or simply worries you, it is always appropriate to call your provider.
 
-![nightstand scene with plain crackers, a glass of water, ginger tea, and a prenatal vitamin bottle](/images/prenatal vitamin bottle.jpg)
+![nightstand scene with plain crackers, a glass of water, ginger tea, and a prenatal vitamin bottle](/images/prenatal-vitamin-bottle.jpg)
 
 ## Symptoms That Should Be Evaluated Promptly
 
@@ -128,7 +127,7 @@ Walking in with a few things ready makes that first visit feel less overwhelming
 - A notebook, since you will forget half of what's said the moment you leave
 - Your partner, if that's possible for your schedule
 
-![small notebook with a handwritten list of questions, a pen, a calendar with a date circled](/images/small notebook.jpg)
+![small notebook with a handwritten list of questions, a pen, a calendar with a date circled](/images/small-notebook.jpg)
 
 ## Frequently Asked Questions
 
