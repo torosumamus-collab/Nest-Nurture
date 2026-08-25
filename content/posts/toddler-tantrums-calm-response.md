@@ -21,12 +21,12 @@ What's really happening behind the tears? Toddlers are still building the abilit
 Their emotions are frequently much bigger than their ability to put those emotions into words. It's not that toddlers can't control themselves, not in the way we usually mean that phrase. They're still learning how to manage feelings that can feel enormous, sometimes bigger than they are.
 ## Common Triggers
 Sometimes the smallest thing is the final straw, and it usually isn't really about the thing itself.
-**Hunger.** A hungry toddler has very little patience left in reserve, for anything.
-**Tiredness.** Fatigue turns ordinary frustrations into something much harder to handle, the same way it does for the rest of us, just louder.
-**Overstimulation.** Crowded places, noise, visitors, travel, or too many activities packed into one day can overwhelm a young nervous system fast.
-**Frustration.** Your toddler often knows exactly what they want and simply doesn't have the language or the physical skill to get there, which is its own particular kind of maddening for a two-year-old.
-**Transitions.** Moving from playtime to bath, television to bedtime, home to daycare, the playground to the car, all of these shifts can be genuinely hard for a toddler to navigate.
-**Wanting independence.** This one deserves its own moment. "I do it!" isn't defiance, it's a toddler discovering they're a separate person with their own preferences and their own will, and that discovery is happening for the very first time.
+1. **Hunger.** A hungry toddler has very little patience left in reserve, for anything.
+2. **Tiredness.** Fatigue turns ordinary frustrations into something much harder to handle, the same way it does for the rest of us, just louder.
+3. **Overstimulation.** Crowded places, noise, visitors, travel, or too many activities packed into one day can overwhelm a young nervous system fast.
+4. **Frustration.** Your toddler often knows exactly what they want and simply doesn't have the language or the physical skill to get there, which is its own particular kind of maddening for a two-year-old.
+5. **Transitions.** Moving from playtime to bath, television to bedtime, home to daycare, the playground to the car, all of these shifts can be genuinely hard for a toddler to navigate.
+6. **Wanting independence.** This one deserves its own moment. "I do it!" isn't defiance, it's a toddler discovering they're a separate person with their own preferences and their own will, and that discovery is happening for the very first time.
 ## Tantrums Are Not Always About "Bad Behavior"
 A tantrum doesn't mean you're failing. It's worth saying plainly, because plenty of parents quietly interpret tantrums as disrespect, manipulation, spoiling, or defiance, and carry that interpretation around like proof of poor parenting.
 
