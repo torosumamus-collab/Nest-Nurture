@@ -32,13 +32,13 @@ A little preparation in the days before you return can take some of the edge off
 
 Consider, in the week or two beforehand:
 
-- **Visiting childcare ahead of time**, so the space, the caregivers, and the routine feel familiar to both you and your baby before you actually need to walk away.
-- **Practicing your new morning routine** a few times, start to finish, so you know roughly how long it takes and where the friction points are.
-- **Prepping clothes and simple meals** in advance, even just for the first few days, so decision fatigue doesn't pile up on top of everything else.
-- **Organizing pumping supplies**, if you're breastfeeding, including a plan for where and when you'll pump during your workday.
-- **Test-driving your commute**, especially if drop-off is now part of it, to see how the timing actually plays out.
-- **Talking with your employer** about your schedule, any accommodations you need, and what a gradual return might look like if that's an option.
-- **Setting realistic expectations** for yourself, particularly for that first week. It's allowed to be imperfect.
+1. **Visiting childcare ahead of time**, so the space, the caregivers, and the routine feel familiar to both you and your baby before you actually need to walk away.
+2. **Practicing your new morning routine** a few times, start to finish, so you know roughly how long it takes and where the friction points are.
+3. **Prepping clothes and simple meals** in advance, even just for the first few days, so decision fatigue doesn't pile up on top of everything else.
+4. **Organizing pumping supplies**, if you're breastfeeding, including a plan for where and when you'll pump during your workday.
+5. **Test-driving your commute**, especially if drop-off is now part of it, to see how the timing actually plays out.
+6. **Talking with your employer** about your schedule, any accommodations you need, and what a gradual return might look like if that's an option.
+7. **Setting realistic expectations** for yourself, particularly for that first week. It's allowed to be imperfect.
 
 **Before You Go Back, Have Ready:**
 
@@ -53,7 +53,7 @@ Consider, in the week or two beforehand:
 ✔ At least one piece of quality family time scheduled
 ✔ A reminder to be kind to yourself
 
-![a work bag and a baby's daycare bag packed and set by the front door the night before, with a written checklist nearby](/images/a-work-bag-and-a-baby's-daycare-bag.jpg)
+![a work bag and a baby's daycare bag packed and set by the front door the night before, with a written checklist nearby](/images/a work bag and a baby's daycare bag.jpg)
 
 ## Easing Into a New Routine
 
@@ -95,7 +95,7 @@ A few ways families find this rhythm:
 
 Connection matters more than the total number of hours in a day. A focused twenty minutes of your full attention often means more to your baby, and to you, than a distracted afternoon together.
 
-![a parent in work clothes sitting on the floor reading a board book with their baby before bedtime](/images/a-parent-in-work clothes-sitting-on-the-floor.jpg)
+![a parent in work clothes sitting on the floor reading a board book with their baby before bedtime](/images/a parent in work clothes sitting on the floor.jpg)
 
 ## Communicating with Your Employer
 
