@@ -64,8 +64,7 @@ What you actually need:
 
 Everything else, the perfectly coordinated nursery, the extensive wardrobe, the gear you've seen recommended in twelve different places, can wait. Your baby will not know or care whether the nursery is finished. They will know whether they're fed, warm, and held, and that's the actual bar.
 
-![a simple, half-finished nursery corner with a crib made up and a stack of folded onesies nearby, soft daylight](/images
-/simple-nursery-half-finished.jpg)
+![a simple, half-finished nursery corner with a crib made up and a stack of folded onesies nearby, soft daylight](/images/simple-nursery-half-finished.jpg)
 
 ## A Simple Birth and Postpartum Plan
 A birth plan doesn't need to be rigid, and honestly, the rigid ones tend to cause more disappointment than comfort when birth doesn't follow the script. Think of it less as a document and more as a set of preferences you've thought through in advance.
