@@ -52,9 +52,6 @@ Consider, in the week or two beforehand:
 ✔ Realistic expectations set for week one
 ✔ At least one piece of quality family time scheduled
 ✔ A reminder to be kind to yourself
-
-![a work bag and a baby's daycare bag packed and set by the front door the night before, with a written checklist nearby](/images/a-work-bag-and-a-baby's-daycare-bag.jpg)
-
 ## Easing Into a New Routine
 
 It's tempting to want your new routine to work perfectly from day one. It won't, and that's fine. What actually helps is building in enough slack that a rough morning doesn't unravel the whole day.
