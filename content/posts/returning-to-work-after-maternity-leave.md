@@ -53,7 +53,7 @@ Consider, in the week or two beforehand:
 ✔ At least one piece of quality family time scheduled
 ✔ A reminder to be kind to yourself
 
-![a work bag and a baby's daycare bag packed and set by the front door the night before, with a written checklist nearby] (public/images/a-work-bag-and-a-baby's-daycare-bag.jpg)
+![a work bag and a baby's daycare bag packed and set by the front door the night before, with a written checklist nearby](/images/a-work-bag-and-a-baby's-daycare-bag.jpg)
 
 ## Easing Into a New Routine
 
@@ -95,7 +95,7 @@ A few ways families find this rhythm:
 
 Connection matters more than the total number of hours in a day. A focused twenty minutes of your full attention often means more to your baby, and to you, than a distracted afternoon together.
 
-![a parent in work clothes sitting on the floor reading a board book with their baby before bedtime](public/images/a-parent-in-work clothes-sitting-on-the-floor.jpg)
+![a parent in work clothes sitting on the floor reading a board book with their baby before bedtime](/images/a-parent-in-work clothes-sitting-on-the-floor.jpg)
 
 ## Communicating with Your Employer
 
