@@ -4,7 +4,7 @@ slug: "toddler-tantrums-calm-response"
 excerpt: "What's actually happening inside a toddler tantrum, and a real, workable way to respond, from someone who's stood in that grocery store aisle too. Tantrums aren't a discipline problem. They're a nervous system problem. Here's what that means for how we respond."
 meta_description: "Why toddler tantrums happen, and how to respond with calm, connection, and boundaries, without losing your own patience."
 date: "2026-06-15"
-category: "toddler & kids"
+category: "toddler-kids"
 tags: ["Toddler Tantrums", "Toddler Behavior", "Positive Parenting", "Big Feelings", "Toddler Meltdowns"]
 cover: "/images/covers/toddler-tantrums-why-they-happen.jpg"
 coverAlt: "A mother crouched down at eye level with her crying toddler on a sidewalk, gentle afternoon light"
