@@ -54,6 +54,9 @@ export const metadata: Metadata = {
   icons: {
     icon: "/favicon.svg",
   },
+ other: {
+    "p:domain_verify": "3ef8725a30c07ece477b70d579f8203a",
+  },
 };
 
 export const viewport: Viewport = {
