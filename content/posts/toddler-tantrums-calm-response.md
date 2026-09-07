@@ -1,7 +1,7 @@
 ---
-title: "Toddler Tantrums: Why They Happen and How to Stay Calm When Things Fall Apart"
+title: "Toddler Tantrums: Why They Happen and How to Stay Calm "
 slug: "toddler-tantrums-calm-response"
-excerpt: "What's actually happening inside a toddler tantrum, and a real, workable way to respond, from someone who's stood in that grocery store aisle too. Tantrums aren't a discipline problem. They're a nervous system problem. Here's what that means for how we respond."
+excerpt: "What's actually happening inside a toddler tantrum, and a real, workable way to respond, from someone who's stood in that grocery store aisle too. Tantrums aren't simply a discipline problem. They're often a sign that a young child is overwhelmed by feelings they don't yet know how to manage."
 meta_description: "Why toddler tantrums happen, and how to respond with calm, connection, and boundaries, without losing your own patience."
 date: "2026-06-15"
 category: "toddler-kids"
