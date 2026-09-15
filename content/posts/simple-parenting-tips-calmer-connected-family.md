@@ -47,7 +47,7 @@ Forget the color-coded chart. Think rhythm instead: a rough, reliable sequence t
 
 A bedtime rhythm might be bath, pajamas, story, cuddles, lights out. It doesn't need to happen at 7:04 sharp every night. The goal isn't precision. The goal is that everyone in the house knows what comes next, which does a surprising amount of the calming work on its own.
 
-![illustrated graphic showing a bedtime rhythm as four to five icon steps](/images/a-bedtime-rhythm.jpg)
+![illustrated graphic showing a bedtime rhythm as four to five icon steps] (/images/a-bedtime-rhythm.jpg)
 
 ## 5. Give Children Small Choices
 
