@@ -48,6 +48,7 @@ Forget the color-coded chart. Think rhythm instead: a rough, reliable sequence t
 A bedtime rhythm might be bath, pajamas, story, cuddles, lights out. It doesn't need to happen at 7:04 sharp every night. The goal isn't precision. The goal is that everyone in the house knows what comes next, which does a surprising amount of the calming work on its own.
 
 ![illustrated graphic showing a bedtime rhythm as four to five icon steps](/images/a-bedtime-rhythm.jpg)
+
 ## 5. Give Children Small Choices
 
 Kids want some say in their own day. Rather than turning every transition into a negotiation, offer a choice inside a boundary you've already decided on.
@@ -139,3 +140,6 @@ Start small. Pause before you react. Listen a little longer than feels efficient
 None of these parenting tips are about becoming a different kind of mother. They're about noticing the small, ordinary moments you already have and letting a few more of them count. That's really the whole thing.
 
 Motherhood doesn't have to be perfect to be meaningful. Take it one day at a time. Unhurried.
+Related Article
+[Read toddler tantrums and how to respond](/blog/toddler-tantrums-calm-response)
+
