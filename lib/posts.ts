@@ -7,6 +7,7 @@ import remarkHtml from "remark-html";
 import readingTime from "reading-time";
 import { Post, PostFrontmatter, PostSummary } from "./types";
 import { SITE } from "./constants";
+import { expandVideoShortcodes } from "./video-embeds";
 
 const POSTS_DIR = path.join(process.cwd(), "content", "posts");
 
@@ -55,8 +56,10 @@ export async function getPostBySlug(slug: string): Promise<Post | null> {
 
   const raw = fs.readFileSync(filePath, "utf8");
   const { data, content } = matter(raw);
+  const contentWithVideos = expandVideoShortcodes(content);
 
-  const processed = await remark().use(remarkGfm).use(remarkHtml, { sanitize: false }).process(content);
+  const processed = await remark().use(remarkGfm).use(remarkHtml, { sanitize: false }).process(contentWithVideos);
+
 
   const post: Post = {
     ...(data as PostFrontmatter),
