@@ -5,7 +5,7 @@ export const SITE = {
   tagline: "A calmer way to raise a family",
   description:
     "Nest & Nurture is a premium motherhood and parenting publication covering pregnancy, newborn life, raising kids, and caring for yourself along the way — thoughtful, evidence-informed, and beautifully unhurried.",
-  url: "https://www.nestandnurture.com",
+  url: "https://nest-nurture-omega.vercel.app/",
   ogImage: "/images/og-default.jpg",
   twitter: "@nestandnurture",
   locale: "en_US",
