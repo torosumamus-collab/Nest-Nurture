@@ -25,10 +25,10 @@ export default function ContactPage() {
         <div className="mt-10 inline-flex flex-col items-center gap-2 rounded-xl2 bg-warm-white px-10 py-8 shadow-card">
           <span className="text-sm font-medium text-ink">Email us</span>
           <a
-            href="mailto:nestandnurture01s@gmail.com"
+            href="mailto:nestandnurture01@gmail.com"
             className="font-display text-2xl text-brown-700 hover:text-brown-500"
           >
-           nestandnurture01s@gmail.com
+           nestandnurture01@gmail.com
           </a>
           <span className="mt-2 text-xs text-brown-400">We typically respond within 2-3 business days.</span>
         </div>
