@@ -4,7 +4,7 @@ slug: "halloween-activities-for-kids"
 excerpt: "Fifteen simple Halloween activities for kids that bring in connection and a little tradition, without turning the day into another thing to manage."
 meta_description: "Fifteen easy Halloween activities for kids that build real connection and simple traditions, without making the day expensive or exhausting."
 date: "2026-09-22"
-category: "family-life"
+category: "lifestyle"
 tags: ["halloween activities for kids", "halloween traditions for families", "halloween crafts for kids", "halloween activities for toddlers", "simple family activities"]
 cover: "/images/covers/A-mother-and-two-children-decorating.jpg"
 coverAlt: "A mother and two children decorating small pumpkins together at the kitchen table in warm evening light"
