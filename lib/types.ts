@@ -10,6 +10,7 @@ export interface PostFrontmatter {
   title: string;
   slug: string;
   excerpt: string;
+  meta_description?: string;
   date: string;
   updated?: string;
   category: string;
