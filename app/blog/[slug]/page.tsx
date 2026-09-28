@@ -24,18 +24,19 @@ export async function generateMetadata({
   const { slug } = await params;
   const post = await getPostBySlug(slug);
   if (!post) return {};
-
+const description = post.meta_description ?? post.excerpt;
+  
   const url = `${SITE.url}/blog/${post.slug}`;
 
   return {
     title: post.title,
-    description: post.excerpt,
+    description: description,
     alternates: { canonical: `/blog/${post.slug}` },
     openGraph: {
       type: "article",
       url,
       title: post.title,
-      description: post.excerpt,
+      description: description,
       publishedTime: post.date,
       modifiedTime: post.updated ?? post.date,
       images: [{ url: post.cover, width: 1200, height: 800, alt: post.coverAlt }],
@@ -43,7 +44,7 @@ export async function generateMetadata({
     twitter: {
       card: "summary_large_image",
       title: post.title,
-      description: post.excerpt,
+      description: description,
       images: [post.cover],
     },
   };
