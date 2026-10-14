@@ -17,6 +17,11 @@ You finally sit down with your coffee. Your toddler has an entire room full of t
 If that sounds familiar, here's something worth knowing. Toddlers usually need connection before they can settle into playing alone. Independent play is a skill that develops slowly, not a switch that flips. It doesn't mean leaving your child alone for long stretches, or expecting them to entertain themselves all day. It isn't refusing to play with them, and it isn't an elaborate Montessori shelf. It just means giving your toddler the space, the materials, and enough confidence to explore something on their own. However long that turns out to be today.
 
 The fifteen toddler activities below are simple, mostly screen-free, and built from things you probably already own. None of them are trying to produce a perfect result. They're trying to buy you a few genuine minutes, and give your toddler a little room to figure things out.
+> ### A LITTLE HELP FOR PLAYTIME
+Need More Simple Toddler Activity Ideas?
+
+If you're looking for more ideas for playtime at home, *Little Moments, Big Play* brings together 30 simple, low-prep toddler activities using everyday household items. It's a handy resource to keep nearby for quiet afternoons, rainy days, or those moments when you're running short on ideas.
+[Explore Little Moments, Big Play →](https://selar.com/little-moments-big-play)
 
 ## What Independent Play Actually Is
 It isn't the same as being left alone. In independent play, your toddler chooses what to do and explores it without constant direction, while you stay nearby and available. Left alone usually means little interaction and expectations beyond what your child can actually handle yet, which tends to end in distress rather than discovery.
@@ -124,6 +129,13 @@ That's entirely normal. Wanting connection doesn't mean independent play isn't d
 
 **Are independent play activities actually good for toddlers?**
 Yes, when they're age-appropriate and supervised well. They offer real opportunities for creativity, problem-solving, concentration, and a growing sense of autonomy.
+
+### Want More Simple Toddler Activities?
+Some days, you just need a simple idea to get playtime started. *Little Moments, Big Play* is a 30-activity ebook filled with easy, low-prep ideas using everyday household items. From creative and sensory play to simple learning activities and quiet play, it gives you more options to explore with your toddler at home.
+
+Whether your little one wants to play independently or enjoys having you join in, you'll find ideas to suit different moments throughout the day.
+
+[Take a look at the activity book →](https://selar.com/little-moments-big-play)
 
 ## You Don't Have to Entertain Your Toddler All Day
 There's a lot of quiet pressure on mothers to constantly create activities, teach something new, and make every minute meaningful. You don't have to carry that.
