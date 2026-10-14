@@ -15,6 +15,9 @@ featured: true
 By the third week of October, my house has a costume half-assembled on the stairs, a pumpkin going soft on the porch, and a to-do list that somehow got longer instead of shorter. Halloween has a way of turning into one more thing to manage, right in the middle of an already full season, when the whole point was supposed to be fun.
 
 But the parts of Halloween my kids actually talk about later aren't the elaborate ones. It's the pancakes shaped like something vaguely pumpkin. The wonky painted gourd nobody can identify. The night we all piled onto one couch in pajamas and nobody made it to the end of the movie. If you're looking for Halloween activities for kids that feel like togetherness instead of another project, here are fifteen worth trying. Pick two or three. Let the rest go, and don't feel like you owe the season anything more than that.
+>### 🎃 Want More Halloween Fun for Little Hands?
+If you're looking for more ways to keep the kids busy this Halloween, *My Little Halloween Activity Book* is packed with 46 pages of printable fun for children ages 3–7. From colouring and mazes to tracing, matching, and creative drawing, it's a handy option for quiet afternoons or a little Halloween fun at home.
+[Explore My Little Halloween Activity Book →](https://selar.com/my-little-halloween-activity-book)
 
 ## You Don't Need to Do All Fifteen
 Fifteen ideas can look like a lot and it isn't meant to be a checklist. Some years you'll have a free Saturday and want to fill it. Other years you'll have twenty minutes before dinner and that has to be enough, and it is. Nobody is keeping score, and your kids definitely aren't comparing your pumpkin to the one three doors down.
@@ -95,6 +98,10 @@ Homemade decorations, baked treats, costumes pulled from what you already own, a
 
 **What are some Halloween activities that don't involve candy?**
 Crafts, baking, a scavenger hunt, a family movie, storytelling, and pumpkin decorating give kids plenty to enjoy without a single piece of candy, which helps on the years when sugar is already accounted for elsewhere.
+
+ **Need an easy activity to print?**
+*My Little Halloween Activity Book* includes colouring pages, puzzles, tracing, matching games, and creative activities for children ages 3–7. Download the printable PDF and choose a page your little one will enjoy.
+[See what's inside the activity book →](https://selar.com/my-little-halloween-activity-book)
 
 ## The Best Halloween Memories Usually Aren't the Elaborate Ones
 Your kids probably won't remember a perfectly decorated house. They'll remember the cookies that turned out lopsided, the parade around the living room in a costume that didn't quite fit, the pumpkin they painted entirely themselves and refused to let anyone touch afterward. None of that shows up in a photo that gets fifty likes, and none of it needs to.
