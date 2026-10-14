@@ -17,7 +17,7 @@ You finally sit down with your coffee. Your toddler has an entire room full of t
 If that sounds familiar, here's something worth knowing. Toddlers usually need connection before they can settle into playing alone. Independent play is a skill that develops slowly, not a switch that flips. It doesn't mean leaving your child alone for long stretches, or expecting them to entertain themselves all day. It isn't refusing to play with them, and it isn't an elaborate Montessori shelf. It just means giving your toddler the space, the materials, and enough confidence to explore something on their own. However long that turns out to be today.
 
 The fifteen toddler activities below are simple, mostly screen-free, and built from things you probably already own. None of them are trying to produce a perfect result. They're trying to buy you a few genuine minutes, and give your toddler a little room to figure things out.
-> A LITTLE HELP FOR PLAYTIME
+> 
  Need More Simple Toddler Activity Ideas?
  If you're looking for more ideas for playtime at home, *Little Moments, Big Play* brings together 30 simple, low-prep toddler activities using everyday household items. It's a handy resource to keep nearby for quiet afternoons, rainy days, or those moments when you're running short on ideas.
 [Explore Little Moments, Big Play →](https://selar.com/little-moments-big-play)
