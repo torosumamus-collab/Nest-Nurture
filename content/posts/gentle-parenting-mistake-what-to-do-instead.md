@@ -39,6 +39,8 @@ Instead of "stop throwing things," you can say "I won't let you throw that. You 
 
 Warmth doesn't cancel the boundary out. It just changes how the boundary gets delivered, and delivery matters more than we tend to give it credit for.
 
+ {{https://youtu.be/YEKFHtWf5yY}}
+
 ## You Can Validate a Feeling Without Giving In
 This is worth separating out on its own, because it's where a lot of gentle parenting quietly goes sideways. Acknowledging an emotion and reversing a decision are not the same act, even though they can feel tangled together in the moment.
 
