@@ -23,6 +23,17 @@ Strip the term back to what it actually describes and it's built on four fairly 
 
 What it was never meant to include is letting children do whatever they want, retiring the word no, or skipping consequences entirely. It doesn't mean preventing every tantrum, keeping your child happy around the clock, or expecting yourself to never get frustrated again. Somehow all of that got bundled in anyway, and it's exhausting far more parents than it should.
 
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:16px;margin:2rem 0;">
+  <iframe
+    src="https://www.youtube.com/embed/YEKFHtWf5yY"
+    title="Video title here"
+    style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;"
+    loading="lazy"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen>
+  </iframe>
+</div>
+
 ## The Gentle Parenting Mistake Many Parents Make
 Here's the mistake, said directly: trying so hard to avoid being harsh that you become afraid to hold a boundary at all.
 
@@ -38,8 +49,6 @@ Children need limits, and it has nothing to do with them being bad. It has to do
 Instead of "stop throwing things," you can say "I won't let you throw that. You can put it down, or I'll help you." Instead of "don't hit your sister," try "I won't let you hit. You can tell her you're angry." Instead of "you're being naughty, you won't leave," something closer to "I know you want to keep playing. It's time to go, and I'm going to help you get ready" holds the same limit without attacking who he is.
 
 Warmth doesn't cancel the boundary out. It just changes how the boundary gets delivered, and delivery matters more than we tend to give it credit for.
-
- {{https://youtu.be/YEKFHtWf5yY}}
 
 ## You Can Validate a Feeling Without Giving In
 This is worth separating out on its own, because it's where a lot of gentle parenting quietly goes sideways. Acknowledging an emotion and reversing a decision are not the same act, even though they can feel tangled together in the moment.
