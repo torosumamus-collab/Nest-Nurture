@@ -25,7 +25,7 @@ export default function BlogIndexPage() {
       <header className="mt-6 mb-12 max-w-2xl">
         <h1 className="font-display text-display-lg text-ink">The Blog</h1>
         <p className="mt-4 text-lg leading-relaxed text-brown-500">
-          Every story we've published, newest first — {all.length} and counting.
+          Every story we've published, newest first  {all.length} and counting.
         </p>
       </header>
 
