@@ -1,6 +1,6 @@
 ---
 title: "Japanese Parenting: How Shitsuke Teaches Children Good Behavior"
-slug: "Japanese-Parenting-How-Shitsuke-Teaches-Children-Good-Behavior"
+slug: "japanese-parenting-shitsuke-discipline"
 excerpt: "A Japanese idea called shitsuke shifts the question from how to stop a behavior to what you can teach your child to do instead."
 meta_description: "How the Japanese parenting method of shitsuke teaches good behavior through example, steady routines, and patience, not constant punishment."
 date: "2026-11-02"
@@ -9,7 +9,7 @@ tags: ["Japanese parenting", "Shitsuke", "toddler behavior", "gentle discipline"
 # COVER IMAGE PROMPT (16:10 landscape, save as public/images/covers/japanese-parenting-shitsuke-discipline.jpg)
 # Documentary-style lifestyle photograph of an East Asian mother in everyday clothes kneeling at her three-year-old son's eye level on a living room floor, handing him a small wooden block to drop into a woven basket. Both are mid-smile and unposed. Soft natural window light from the left, warm muted palette of cream, sage green, dusty rose and beige, shallow depth of field, 35mm film look. A real, lived-in home with a linen sofa, nothing styled. Candid and tender, not stock-photo staged. No text, no logos, no watermarks, natural hands with correct fingers.
 cover: "/images/covers/Warm Family Playtime with Wooden Blocks.png"
-coverAlt: "A mother kneeling at eye level with her young son on the living room floor as he puts a wooden block into a basket."
+coverAlt: "A mother kneeling at eye level with her young son and daughter on the living room floor as he puts a wooden block into a basket."
 author: "editors"
 featured: false
 ---
