@@ -26,6 +26,17 @@ It isn't the same as being left alone. In independent play, your toddler chooses
 
 There's no stopwatch here either. Independent play might last five minutes the first few times, then ten, then longer as your child gets comfortable. The point is gradual growth, not a target you're failing to hit. Along the way it tends to build confidence, problem-solving, and concentration. It also builds a bit of tolerance for the small frustration of a puzzle piece that won't quite fit. That's one opportunity for development among many, not a milestone every toddler has to master on schedule.
 
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:16px;margin:2rem 0;">
+  <iframe
+    src="https://www.youtube.com/embed/FTyLvamzdm4"
+    title="Video title here"
+    style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;"
+    loading="lazy"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen>
+  </iframe>
+</div>
+
 ## 15 Activities Worth Trying
 None of these toddler activities require a special trip to the store. A little rotation and some patience will get you further than a cart full of new toys ever does.
 ### 1. The Simple Building Basket
