@@ -40,7 +40,7 @@ And when you get it wrong, say so. "I'm sorry I snapped. That wasn't your fault.
 
 You won't manage this every day. Some evenings you'll lose it over a basket of blocks. That doesn't undo anything. A child who watches a relationship get repaired, honestly and without drama, learns something perfect afternoons can't teach.
 
-![A mother and her young daughter washing their hands side by side at the bathroom sink](public/images/Warm Handwashing Moments.png)
+![A mother and her young daughter washing their hands side by side at the bathroom sink](/images/Warm-Handwashing-Moments.png)
 ## Principle Two: Give Clear Expectations and Keep Them Steady
 
 "Be good at the shops" sounds like a rule. To a three-year-old, it's weather. Nobody has told them what good looks like: a hand on the trolley, walking feet, a quiet voice, one thing they get to choose. Young children aren't ignoring vague instructions. They just can't act on them.
@@ -53,7 +53,7 @@ Tell the other adults too. If you say shoes go on the shelf and Grandma says any
 
 Steady doesn't mean rigid. A feverish Thursday, a long trip, a new baby: the rules can bend to the day and to your child's age. The AAP recommends clear and consistent rules, which is not the same as perfect ones.
 
-![A four-year-old boy hanging his coat on a low hook beside a shoe shelf in the entryway](public/images/Cozy Entryway Organization Moment.png)
+![A four-year-old boy hanging his coat on a low hook beside a shoe shelf in the entryway](/images/Cozy-Entryway-Organization-Moment.png)
 ## Principle Three: Teach the Skill Behind the Behavior
 
 Picture two toddlers and one yellow truck. One of them grabs it. Your first instinct is probably "Don't snatch!", and it probably doesn't work. Snatching at two isn't a character flaw. It's a turn-taking skill that hasn't arrived yet.
@@ -72,7 +72,7 @@ So with the truck, skip the speech. Say, "It's Mia's turn. You're next, and I'll
 
 And if your child is already screaming? Skip the lesson. Safety and comfort come first, and teaching can wait until everyone's calm. Nobody practices a skill in the middle of a storm.
 
-![Two toddlers sharing a wooden toy train on the floor while a mother kneels between them](public/images/Warm Montessori Playtime with Wooden Train.png)
+![Two toddlers sharing a wooden toy train on the floor while a mother kneels between them](/images/Warm-Montessori-Playtime-with-Wooden-Train.png)
 ## Everyday Moments That Teach Good Manners (No Extra Time Required)
 
 Teaching toddlers good manners doesn't need lesson plans. Shitsuke parenting lives in ordinary moments you're already walking through.
@@ -86,7 +86,7 @@ Teaching toddlers good manners doesn't need lesson plans. Shitsuke parenting liv
 
 Pick one. Just one. A two-year-old doesn't need table manners, dressing, and a coat routine all in the same week, and neither do you.
 
-![A two-year-old girl carefully placing a napkin at a family dinner table](public/images/Toddler Setting a Cozy Table.png)
+![A two-year-old girl carefully placing a napkin at a family dinner table](/images/Toddler-Setting-a-Cozy-Table.png)
 ## What to Do When Your Child Still Won't Cooperate
 
 Here's the thought you're probably having: I've tried all this, and my kid just lay down in the hallway. Fair. It happens in the most patient houses.
