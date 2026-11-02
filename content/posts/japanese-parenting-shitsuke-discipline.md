@@ -14,9 +14,9 @@ author: "editors"
 featured: false
 ---
 
-It's 5:40 on a Tuesday. You've asked your three-year-old to put the blocks away, once and then again. By the third ask your voice has gone sharp, and now two people are furious about a basket of blocks. Add the supermarket meltdown and the toy snatched at the park. You end the day tired and a little guilty. There's another way to look at all of it, and it sits inside what people online call the Japanese parenting method.
+It's 5:40 on a Tuesday. You've asked your three-year-old to put the blocks away, once and then again. By the third ask your voice has gone sharp, and now two people are furious about a basket of blocks. Add the supermarket meltdown and the toy snatched at the park. You end the day tired and a little guilty. There's another way to look at all of it, and it sits inside one of the Japanese parenting method.
 
-The idea people usually point to is one word, shitsuke. It roughly means teaching a child how to behave, not only correcting them when they don't. It isn't a formula. It doesn't describe how every family in Japan raises kids, and it certainly won't guarantee a quiet house. But the question underneath it is a good one: what has my child actually been taught here?
+The idea people usually point to is one word, **shitsuke**. It simply means teaching a child how to behave, not only correcting them when they don't. It isn't a formula. It doesn't describe how every family in Japan raises kids, and it certainly won't guarantee a quiet house. But the question underneath it is a good one: what has my child actually been taught here?
 
 ## What Shitsuke Actually Means (and What It Doesn't)
 
