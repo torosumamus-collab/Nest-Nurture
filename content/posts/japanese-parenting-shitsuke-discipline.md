@@ -133,7 +133,7 @@ Shitsuke (躾) is usually translated as discipline, training, or teaching manner
 
 ### How do Japanese parents teach children discipline?
 
-There isn't one answer, because Japanese families differ as much as families anywhere. Writing about shitsuke often describes modeling the behavior you want and repeating routines. Treat it as a source of ideas, not a script.
+There isn't one answer, because Japanese families differ as much as families anywhere. Reading about shitsuke often describes modeling the behavior you want and repeating routines. Treat it as a source of ideas, not a rule book.
 
 ### At what age can children start learning good manners?
 
