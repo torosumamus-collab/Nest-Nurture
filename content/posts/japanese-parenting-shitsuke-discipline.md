@@ -1,158 +1,120 @@
 ---
-title: "Japanese Parenting: How Shitsuke Teaches Children Good Behavior"
-slug: "japanese-parenting-shitsuke-discipline"
-excerpt: "A Japanese idea called shitsuke shifts the question from how to stop a behavior to what you can teach your child to do instead."
-meta_description: "How the Japanese parenting method of shitsuke teaches good behavior through example, steady routines, and patience, not constant punishment."
+title: "The Japanese Parenting Method That Teaches Instead of Scolds"
+slug: "japanese-parenting-method-shitsuke"
+excerpt: "Shitsuke is the Japanese habit of teaching children how to behave before correcting them. Here's what it asks of you at home, and what it doesn't."
+meta_description: "The Japanese parenting method called shitsuke teaches good habits through practice, not punishment. Here's how it can work at home."
 date: "2026-11-02"
-category: "motherhood"
-tags: ["Japanese parenting", "Shitsuke", "toddler behavior", "gentle discipline", "positive parenting"]
-# COVER IMAGE PROMPT (16:10 landscape, save as public/images/covers/japanese-parenting-shitsuke-discipline.jpg)
-# Documentary-style lifestyle photograph of an East Asian mother in everyday clothes kneeling at her three-year-old son's eye level on a living room floor, handing him a small wooden block to drop into a woven basket. Both are mid-smile and unposed. Soft natural window light from the left, warm muted palette of cream, sage green, dusty rose and beige, shallow depth of field, 35mm film look. A real, lived-in home with a linen sofa, nothing styled. Candid and tender, not stock-photo staged. No text, no logos, no watermarks, natural hands with correct fingers.
-cover: "/images/covers/Warm Family Playtime with Wooden Blocks.png"
-coverAlt: "A mother kneeling at eye level with her young son and daughter on the living room floor as he puts a wooden block into a basket."
-author: "editors"
+category: "toddler-kids"
+tags: ["Japanese parenting", "Shitsuke", "gentle discipline", "toddler behavior", "positive parenting"]
+cover: "/images/covers/japanese-parenting-method-shitsuke.png"
+coverAlt: "A mother kneeling beside her toddler at the front door, both reaching for a small pair of shoes on a low wooden shelf in soft morning light"
+author: "priya-anand"
 featured: false
 ---
 
-It's 5:40 on a Tuesday. You've asked your three-year-old to put the blocks away, once and then again. By the third ask your voice has gone sharp, and now two people are furious about a basket of blocks. Add the supermarket meltdown and the toy snatched at the park. You end the day tired and a little guilty. There's another way to look at all of it, and it sits inside one of the Japanese parenting method.
+The third time I ask my son to put the blocks back in the basket, my voice has already gone somewhere I don't like. He's two and a half. He looks at me, looks at the blocks, and starts another tower.
 
-The idea people usually point to is one word, **shitsuke**. It simply means teaching a child how to behave, not only correcting them when they don't. It isn't a formula. It doesn't describe how every family in Japan raises kids, and it certainly won't guarantee a quiet house. But the question underneath it is a good one: what has my child actually been taught here?
+I went looking for answers and found the Japanese parenting method called shitsuke, which starts from a question I hadn't thought to ask. What if he isn't refusing, and nobody has actually shown him how? The idea is simple enough to say in one breath. Children don't arrive knowing how to behave, and the teaching comes before the correcting, not after.
 
-## What Shitsuke Actually Means (and What It Doesn't)
+## What Shitsuke Means, and What It Doesn't Promise
 
-Japanese dictionaries list shitsuke (躾) as discipline, training, or teaching manners. It covers the small stuff: greetings, eating, leaving a room tidy. None of it is assumed. It's taught, then practiced until it feels familiar.
+Shitsuke gets translated as discipline, which is where most English speakers lose the thread. It's closer to upbringing: the daily, repeated teaching of manners, habits, and how to be considerate in a shared space. The written character is often explained as a blend of the characters for body and beautiful. Good conduct, practiced until the body knows it.
 
-Think about shoes by the front door. The reactive version waits for shoes to land in the hallway, then says "Don't leave your shoes there" for the fifth time this week. The teaching version happens before the hallway is a problem. You crouch at the door and say, "Shoes go on this shelf. Watch me." You do it together on Monday, again on Tuesday, and again on Wednesday when it's boring. (Nobody mentions that part.)
+Picture a toddler learning to take her shoes off at the door and line them up. Someone usually just does it beside her, again and again, until her hands know the move. Same with saying *itadakimasu* before a meal, a small thank-you for the food that children absorb the way they absorb a song.
 
-One approach waits for the mistake and leans on correction. The other prepares for it, and keeps consequences in reserve for when they're truly needed. One expects instant compliance. The other leaves room for the shoe to miss the shelf on Thursday, and tries again.
+I'm wary of any parenting method named after a country, as if it comes with a warranty. Japanese toddlers melt down in supermarkets too. Shitsuke won't make a child obedient, and I'd be suspicious of anyone who says it will. What it offers is a change in order: teach first, correct second.
 
-None of this is proof that children raised this way are calmer or more obedient, and I'm no authority on Japanese family life. Families there differ the way families everywhere do. Like our word discipline, shitsuke can mean very different things depending on who's saying it. Treat the Japanese parenting method as a lens, not a rulebook.
+Most of us run it backwards. We wait for the unwanted thing, say "don't," and say it again, louder. The shitsuke version sounds more like this: here's what we do, let's practice it, and when it goes wrong, that's part of practicing.
 
-## Principle One: Your Child Learns From What You Do, Not Just What You Say
+It also changes what a mistake means. In the old order, a crooked shoe is something to report. In this one, it's information: he needed one more demonstration, that's all. Your own mood stops being the thing that decides whether a lesson happens.
 
-Your child has heard you say "ugh, where are my keys" with real feeling. Listen to how they talk to their teddy bear. It may sound uncomfortably familiar.
+![A pair of small shoes lined up beside adult shoes on a step-down entryway, soft window light](/images/japanese-parenting-shoes-entryway.png)
 
-That isn't a flaw in your child. It's how they learn. The American Academy of Pediatrics (AAP) says it plainly: babies learn by watching what you do.
+## Why Your Toddler Copies What You Do, Not What You Say
 
-So the cheapest lesson in your house is the one you're already teaching. Say please and thank you where your child can hear it, to them, to the cashier, to your partner. Tidy up beside them instead of pointing from the sofa. When you're frustrated, narrate it out loud: "I'm getting cross. I need a breath before I answer." It feels silly. It works anyway.
+Here's the humbling part. My son has never once been moved by a speech about patience. But he has borrowed my exact tone when the shoes won't go on and said, "Come ON," to his stuffed rabbit.
 
-And when you get it wrong, say so. "I'm sorry I snapped. That wasn't your fault. Let's try again." The AAP notes that admitting and repairing a mistake gives your child a model for recovering from their own.
+Small children learn by watching, and what they watch most closely is you. That's decades of child development research, and also every parent who has heard their own voice come out of a two-year-old. So the lesson isn't the lecture. It's the ordinary stuff.
 
-You won't manage this every day. Some evenings you'll lose it over a basket of blocks. That doesn't undo anything. A child who watches a relationship get repaired, honestly and without drama, learns something perfect afternoons can't teach.
+I used to think modeling meant being calm. It doesn't. It means being visible. When I'm about to snap, I've started saying so out loud: "My body feels hot and loud right now. I'm going to stand by the window for ten seconds." He watches me do it. Last week he stood by the window himself, arms crossed, scowling at the curtains, for exactly ten seconds.
 
-![A mother and her young daughter washing their hands side by side at the bathroom sink](/images/Warm-Handwashing-Moments.png)
-## Principle Two: Give Clear Expectations and Keep Them Steady
+Kindness works the same way. A child who has watched you hand a friend the last biscuit a hundred times gets there faster. Faster than one who's simply been told to share. Say please when you ask for the cup. Put the toys away beside him instead of pointing from the sofa. And when you get it wrong, which you will, say so: "I shouted. I'm sorry. Let me try that again." That one sentence teaches repair better than any rule on any chart I've ever seen.
 
-"Be good at the shops" sounds like a rule. To a three-year-old, it's weather. Nobody has told them what good looks like: a hand on the trolley, walking feet, a quiet voice, one thing they get to choose. Young children aren't ignoring vague instructions. They just can't act on them.
+![A mother and toddler kneeling on a living room rug, putting wooden blocks into a basket together](/images/japanese-parenting-tidying-together.png)
 
-House rules can be small and a bit boring, which is the best kind. Toys go away after we play. We wash our hands before we eat. We use kind words. Shoes live on the shelf. We take turns.
+## Pick One or Two Rules and Say Them the Same Way Every Time
 
-Here's the order I'd follow. Pick a single behavior. Explain it in a sentence your child would actually follow. Show what it looks like. Practice together a few times, without an audience. Then keep going, kindly, for longer than feels reasonable.
+Unclear expectations are a quiet source of daily friction. "Tidy up" means something to you: a floor you can cross in the dark. To a two-year-old it might mean nothing at all.
 
-Tell the other adults too. If you say shoes go on the shelf and Grandma says anywhere is fine, your child will test both, and fairly. Two minutes of talking with your partner or the childminder saves weeks.
+Start with one or two household rules. Shoes go on the shelf when we come home. We wash hands before we eat. Short and concrete, and said in the same words by everyone who looks after your child. (I'm not a fan of the fridge list with fourteen bullet points. Nobody can keep that many rules in their head, never mind a toddler.) If Grandma says one thing and Dad says another, your toddler isn't confused so much as curious about which version is real. Once the first rule sticks, add a second. We take turns. We speak kindly. One a month is plenty.
 
-Steady doesn't mean rigid. A feverish Thursday, a long trip, a new baby: the rules can bend to the day and to your child's age. The AAP recommends clear and consistent rules, which is not the same as perfect ones.
+Teaching a rule has a rhythm. Say it in plain words. Show it once, slowly. Do it together, then let him try while you stand nearby. Then do it again tomorrow, and the day after, and the day after that. It will take longer than you'd like.
 
-![A four-year-old boy hanging his coat on a low hook beside a shoe shelf in the entryway](/images/Cozy-Entryway-Organization-Moment.png)
-## Principle Three: Teach the Skill Behind the Behavior
+Consistent doesn't mean rigid, though. If he's sick, or it's eight at night after a long drive home, the shoes can stay where they land. The rule survives one crooked evening.
 
-Picture two toddlers and one yellow truck. One of them grabs it. Your first instinct is probably "Don't snatch!", and it probably doesn't work. Snatching at two isn't a character flaw. It's a turn-taking skill that hasn't arrived yet.
+## Ask Which Skill Is Missing Before You Ask Why They're Misbehaving
 
-Underneath most of what wears us down, there's a missing skill.
+Take the snatcher. Your toddler grabs a truck from another child, and the whole playground turns to look at you. The reflex is "Don't snatch!" and I've said it more times than I'll admit. But "don't" tells him what to stop. It says nothing about what to do with a hand that wants the truck right now.
 
-- Snatching is about taking turns.
-- The meltdown is about handling frustration, a skill still under construction.
-- Interrupting is about waiting and saying "excuse me."
-- Shouting is a big feeling that hasn't found its words yet.
-- Refusing to tidy up usually means the routine hasn't been built.
+So I try to name the missing skill instead. Snatching is a turn-taking problem. Tantrums are often a frustration problem, and interrupting is a waiting problem. Shouting when upset usually means he doesn't have the words yet. Each one needs a different kind of teaching.
 
-Zero to Three notes that toddlers often understand a limit and still can't stop themselves. It takes thousands of repetitions before words alone can steer them. The CDC puts it another way: inability isn't the same as disobeying.
+Interrupting is the one that gets me. I'm on the phone, he's three feet away, and suddenly something is urgent. So I teach waiting small. A hand on my arm means I see you, hold on. I cover his hand with mine, finish my sentence, and turn to him within a minute. Then a bit longer next time.
 
-So with the truck, skip the speech. Say, "It's Mia's turn. You're next, and I'll help you wait." When the truck finally changes hands, name it: "You waited. That was hard." That's one repetition. You'll need a few thousand more.
+With the truck, it sounds like this: "Maya's turn with the truck. Yours is next. Let's count to ten together." Then you stay close, and when the counting ends, you help him ask for it. Slower than "Don't snatch." But it gives his hands something to do besides grab.
 
-And if your child is already screaming? Skip the lesson. Safety and comfort come first, and teaching can wait until everyone's calm. Nobody practices a skill in the middle of a storm.
+One exception. A child who's already melting down isn't learning anything. Comfort first, teaching later, once his body has settled. (I wish someone had told me that before I tried explaining sharing to a screaming toddler.)
 
-![Two toddlers sharing a wooden toy train on the floor while a mother kneels between them](/images/Warm-Montessori-Playtime-with-Wooden-Train.png)
-## Everyday Moments That Teach Good Manners (No Extra Time Required)
+## Practice Hides in Ordinary Moments: Meals, Doors and Bedtime
 
-Teaching toddlers good manners doesn't need lesson plans. Shitsuke parenting lives in ordinary moments you're already walking through.
+None of this needs extra time in your day. The practice is already happening, several times before lunch, whether you plan it or not. The Japanese parenting method leans on that kind of repetition far more than it leans on speeches.
 
-- **Meals:** wash hands first, sit with everyone, and pass the bread with a please.
-- **Play:** toys back in the basket before the next thing starts. Our [independent play ideas](/blog/toddler-activities-independent-play) make an easy start.
-- **Getting dressed:** let them try the shirt, even when it ends up backwards. Backwards is still progress.
-- **Coming home:** one rhythm for shoes, bag, and coat, with a hook at their height.
-- **Bedtime:** choosing pajamas, tucking in the bear, switching off the lamp.
-- **Conversation:** waiting for a turn to talk, then being properly listened to when it comes.
+At meals, hands get washed, everyone sits together, and someone says thank you for the food. At the door, it's shoes, bag, coat, in that order, on the same hooks. Coming home is my favorite, because it's the same few steps at the same door every single day. Repetition is boring for us. For him it's a map. At bedtime, a two-year-old can carry one stuffed animal to bed and a four-year-old can choose tomorrow's socks. The help can be tiny. He puts the book back on the shelf, I switch on the night-light, and that's the whole ritual.
 
-Pick one. Just one. A two-year-old doesn't need table manners, dressing, and a coat routine all in the same week, and neither do you.
+Getting dressed is where "I do it" gets its practice. Lay out two shirts, let him pick, and wait the extra ninety seconds while he fights a sleeve. It's slower. It's also how he stops needing you to do it.
 
-![A two-year-old girl carefully placing a napkin at a family dinner table](/images/Toddler-Setting-a-Cozy-Table.png)
+The dinner table counts too. Waiting for someone to finish talking is a skill, and so is listening for your turn. Try, "I'm finishing my sentence, then I want to hear yours." And during play, the last five minutes belong to tidying, ideally together, ideally with a song if you've got the energy. I usually don't.
+
+Pick one of these, not all of them. A toddler learning to carry his own plate to the counter has plenty to be getting on with.
+
+![A toddler carrying a small plastic plate from the dinner table toward the kitchen counter while a parent watches from behind](/images/japanese-parenting-carrying-plate.png)
+
 ## What to Do When Your Child Still Won't Cooperate
 
-Here's the thought you're probably having: I've tried all this, and my kid just lay down in the hallway. Fair. It happens in the most patient houses.
+Some days all of it will fail. You'll show him the shoes, practice the shoes, and he'll lie down in the hallway like a dropped coat. That doesn't mean the approach is broken. He's two. Impulse control is still under construction, and it goes up unevenly: quick on Tuesday, not at all on Wednesday.
 
-Children get there at different speeds, and repetition is the whole method. The first fifty tries can look like failure. Toddlers are working with limited emotional brakes, and some days the brakes are simply out, usually after a bad night. A hard day is information, not a verdict.
+Some of it is plain age. A two-year-old's patience is measured in seconds, and a 5pm kitchen is not where those seconds get generous. You haven't done it wrong.
 
-None of that means dropping the boundary. A child can be upset about a limit without the limit disappearing. Gentle discipline still has edges, and we wrote about [the gentle parenting mistake that quietly wears parents out](/blog/gentle-parenting-mistake-what-to-do-instead) if that tension sounds familiar.
+What helps is holding two things at once. The boundary stays, so the blocks still go in the basket. And the feeling gets room: "You're not ready to stop. I know." He can be upset about a rule without the rule disappearing. Reconnecting isn't giving in, either. You're keeping the rule and showing him you're still on his side while you do. That's exactly where gentle parenting tends to slip, and [we wrote about that slip here](/blog/gentle-parenting-mistake-what-to-do-instead).
 
-Say your toddler refuses to put the toys away. Get down to their level, say what needs to happen, and offer to do the first few together. If they're at their limit, reconnect first and come back to the task in a few minutes. More on that moment in [why toddler tantrums happen](/blog/toddler-tantrums-calm-response). And if the meltdowns are frequent enough to worry you, mention it to your pediatrician.
+With the blocks, get down to his level, say it plainly, and pick up the first three together. If he's past his limit, put the blocks down and reconnect first. Come back in a few minutes. And if the meltdown itself is the real problem, [this guide to staying steady through one](/blog/toddler-tantrums-calm-response) might help more.
 
-> **Nest & Nurture Tip:** Count reminders, not meltdowns. If it took five reminders last week and three this week, that's progress, even on a day that doesn't feel like it.
+Progress rarely looks like obedience. More often it looks like needing two reminders this week instead of five. A rough week isn't a verdict on you or on him.
 
-Progress doesn't always look like obedience. Sometimes it just looks like fewer reminders than you needed last week.
+If his tantrums feel unusually intense, very frequent, or different from what you'd expect for him, mention it to your pediatrician. You don't need to be sure first.
 
-## Five Small Changes to Try at Home This Week
+## Five Small Changes to Try This Week
 
-None of these positive discipline techniques needs a chart or a prize jar. Pick one or two.
+Pick one. Genuinely one. The other four will keep, and none of them need a laminated chart.
 
-**Show before you correct.** Your child may not know what "tidy up" looks like. Do it once, slowly, and let them copy.
+1. **Show it before you correct it.** Walk to the shelf, put one shoe where it goes, and hand him the other.
+2. **Choose one or two rules.** Not seven. You'll forget five of them yourself.
+3. **Say what to do, not what to stop.** "Let's put the blocks in the basket" instead of "Stop making a mess."
+4. **Notice the effort.** "You carried your own plate" tells him exactly what worked, which a blanket "good job" rarely does.
+5. **Repair out loud.** When you lose it, come back: "I got loud, and that wasn't okay. Let's try again."
 
-**Choose one or two house rules.** Any more and everyone, you included, has forgotten them by Thursday.
+## The Goal Was Never an Obedient Child
 
-**Say what to do, not what to stop.** "Stop making a mess" becomes "Let's put the blocks back in the basket." The CDC recommends the same swap.
+A child who does everything the second you ask can look like a success. Sometimes it is. Sometimes he's just afraid of what happens if he doesn't.
 
-**Notice the effort.** "You waited for your turn" tells them exactly what worked. "Good job" doesn't. The AAP advises praising good tries as well as successes, so catch the tries.
+What shitsuke is really after is slower and quieter. A child who grows into respect for other people, some self-control, and a bit of empathy. A child who learns to think before he acts. Those come from practice, and from being forgiven while practicing. Not from fear of disappointing you.
 
-**Repair after you lose it.** You will lose it. Apologize, say what you'll do differently, and try again at the next moment.
+You'll know it's working in strange, small ways. A four-year-old who says, "I want to hit, so I'm going to stomp instead," is doing exactly what all this practice was for.
 
-More ideas this small live in our [simple parenting tips for a calmer, more connected family](/blog/simple-parenting-tips-calmer-connected-family).
+> The goal isn't to raise children who never make mistakes. It's to help them learn what to do when they do.
 
-## The Goal Isn't a Perfectly Obedient Child
+If you'd like the wider picture, our piece on [how positive parenting makes family life easier](/blog/how-positive-parenting-makes-family-life-easier) sits well alongside this one.
 
-A child who does exactly what they're told isn't necessarily learning much. I'd rather aim for something slower. Raising respectful children is a long game. It means growing respect for other people, a feel for their own emotions, and some self-control. Then responsibility, empathy, a bit of confidence, and the ability to stop and make a decent choice.
+## One Pair of Shoes at a Time
 
-Discipline should build those qualities. It shouldn't just teach a child to dread disappointing the adults around them. A child who's afraid of getting it wrong has little reason to tell you when they have.
+Tonight his shoes will land crooked by the door, and tomorrow's probably will too. I'll put one where it belongs, hand him the other, and wait. He's learning, and so, slowly, am I.
 
-> "The goal isn't to raise children who never make mistakes. It's to help them learn what to do when they do."
-
-## Quick Answers About Shitsuke and Teaching Good Behavior
-
-### What does shitsuke mean in Japanese parenting?
-
-Shitsuke (躾) is usually translated as discipline, training, or teaching manners. Descriptions of the so-called Japanese parenting method tend to stress example and repetition over punishment.
-
-### How do Japanese parents teach children discipline?
-
-There isn't one answer, because Japanese families differ as much as families anywhere. Reading about shitsuke often describes modeling the behavior you want and repeating routines. Treat it as a source of ideas, not a rule book.
-
-### At what age can children start learning good manners?
-
-Earlier than you might think, in tiny pieces. The AAP notes that babies learn by watching what you do, so your own please and thank you count from the start. Expect simple manners to take many repetitions.
-
-### How can I teach my toddler to listen without shouting?
-
-The CDC suggests getting close, using their name, and giving one clear direction in a calm, firm voice. Say what to do, not what to stop. Then give them a moment to respond before you follow through.
-
-### What is the difference between discipline and punishment?
-
-The AAP describes the aim of discipline as teaching good behavior rather than punishing bad behavior. Put simply, discipline shows a child what to do next time, while punishment only deals with what already happened.
-
-### How can I encourage good behavior without constantly rewarding my child?
-
-The AAP calls attention the most powerful tool for effective discipline: notice good behavior, and praise successes and good tries. That means specific words, not prizes.
-
-## Small Lessons Today, Lifelong Habits Tomorrow
-
-Nobody learns everything in a day. Your child learns through the little things you repeat, the examples you set, and the chances you give them to try again. Start with one small habit tomorrow. And the next time the blocks won't go in the basket, ask a different question: what can I teach them to do instead?
-
-At Nest & Nurture, we believe the little things matter. Take your time. Keep showing up. Motherhood, unhurried.
